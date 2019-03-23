@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+d:\vs_jipp\memory\memory\myform.h(824): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\vs_jipp\memory\memory\myform.h(834): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\vs_jipp\memory\memory\myform.h(844): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\vs_jipp\memory\memory\myform.h(821): warning C4715: 'memory::MyForm::lokacje': not all control paths return a value
+  memory.vcxproj -> D:\VS_jipp\memory\Debug\memory.exe
